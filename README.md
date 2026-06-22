@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hi there, I'm Tyler Nguyen!  <img width="20" height="27" alt="club-penguin-ghosthy" src="https://github.com/user-attachments/assets/68f0988b-7369-48be-a332-4208d709fc3b" />
+<h1> Hi there, I'm Tyler Nguyen!  <img width="30" height="37" alt="club-penguin-ghosthy" src="https://github.com/user-attachments/assets/68f0988b-7369-48be-a332-4208d709fc3b" />
 </h1> 
 </div>
 <!--
