@@ -2,7 +2,7 @@
 <h1> Hi there, I'm Tyler Nguyen!  <img width="40" height="47" alt="club-penguin-ghosthy" src="https://github.com/user-attachments/assets/68f0988b-7369-48be-a332-4208d709fc3b" />
 </h1> 
 <p>
-  🚀 <em>New Grad Computer Science student from the University of Calgary, interested in full-stack development, machine learning, artificial intelligence, and building real-world AI-powered applications.</em>
+   <img width="40" height="47" alt="Breakdance" src="https://github.com/user-attachments/assets/ce0e36c0-f685-4ade-b36d-cfd1f7cc2442" /> <em>New Grad Computer Science student from the University of Calgary, interested in full-stack development, machine learning, artificial intelligence, and building real-world AI-powered applications.</em>
 </p>
 </div>
 <!--
