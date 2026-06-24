@@ -3,7 +3,7 @@
 
 </h1> 
 <p>
-   <em>New Grad Computer Science student from the University of Calgary, interested in full-stack development, machine learning, artificial intelligence, and building real-world AI-powered applications.</em>
+   <em>New Grad Computer Science student from the University of Calgary, interested in software engineering, full-stack development, machine learning, artificial intelligence, and building real-world AI-powered applications.</em>
 </p>
 </div>
 <!--
